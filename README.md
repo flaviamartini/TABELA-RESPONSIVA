@@ -1,10 +1,11 @@
-#Tabela Responsiva
+Tabela Responsiva
+
 Este é um projeto que consiste em uma tabela responsiva feita com React, utilizando TypeScript, Jest para testes e Vite como bundler. O objetivo deste projeto é demonstrar a implementação de uma tabela responsiva utilizando React e TypeScript, bem como a utilização de testes unitários com Jest.
 
 Como executar
 Para executar o projeto, é necessário ter o Node.js instalado em sua máquina. Em seguida, execute os seguintes comandos no terminal:
 
-git clone https://github.com/seu-usuario/tabela-responsiva.git
+git clone https://github.com/flaviamartini/tabela-responsiva.git
 
 cd tabela-responsiva
 
